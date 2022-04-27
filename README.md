@@ -8,25 +8,30 @@ Random Oversampling
 ![Naive_Random_Oversampling](https://user-images.githubusercontent.com/96025706/165422606-9f6d0c34-1837-4d68-820d-bf06fe441743.png)
 * Accuracy: 63.4%
 
+
 SMOTE Oversampling
 
 ![SMOTE_Oversampling](https://user-images.githubusercontent.com/96025706/165422621-02f2fa54-f435-4cc3-85c4-1acfd1032d0b.png)
 * Accuracy: 64.7%
+
 
 Undersampling
 
 ![Undersampling](https://user-images.githubusercontent.com/96025706/165422633-bf122b2a-b4ab-4b18-84b1-b0991e782684.png)
 * Accuracy: 54.2%
 
+
 Combination SMOTEENN
 
 ![Combination_Sampling](https://user-images.githubusercontent.com/96025706/165422676-84855082-8cd8-4a85-a529-3a679b161d84.png)
 * Accuracy: 65.5%
 
+
 Balanced Random Forest
 
 ![Balanced_Random_Forest](https://user-images.githubusercontent.com/96025706/165422692-0cbef61c-ac0a-4e9e-ae46-27a03dc9facc.png)
 * Accuracy: 90.5%
+
 
 Easy Ensemble AdaBoost Classifier
 
